@@ -3,6 +3,7 @@
 # 简介: 智疏项目启动
 # 启动 zkServer 和 redis
 # 后记: redis 的 $make 命令是安装 redis 一开始执行过一遍就够了
+zkServer stop
 zkServer start
 
 # cd /usr/local/extend_for_java/redis-3.0.2
